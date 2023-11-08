@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 My portfolio at [diogocardoso.pro](diogocardoso.pro)
+- 👨‍💻 My portfolio at [https://diogocardoso.pro](diogocardoso.pro)
 
 - 📫 How to reach me **dioogoocardoosoo@gmail.com**
 
