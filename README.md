@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo Cardoso</h1>
-<h3 align="center">A Front-end Developer & UI/UX Designer</h3>
+<h3 align="center">Developer & UI/UX Designer</h3>
 
-- 🔭 I’m currently working on **A school organizer webApp**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 My portfolio at [diogocardoso.pro](https://diogocardoso.pro)
+- 🔭 I’m currently working on my 2nd university course.
 
 - 📫 How to reach me **dioogoocardoosoo@gmail.com**
 
