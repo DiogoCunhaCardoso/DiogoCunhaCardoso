@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Not Today, an addiction quitting app.<br>🌱 I’m currently using typescript, express, graphQL, Flutter
+🔭 I am currently looking for internship opportunities after launching my playstore app: https://play.google.com/store/apps/details?id=com.diogocardoso.coinllector
 
 
 ## 🌐 LinkedIn:
