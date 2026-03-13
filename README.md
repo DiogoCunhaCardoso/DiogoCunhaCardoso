@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently looking for internship opportunities after launching my playstore app: https://play.google.com/store/apps/details?id=com.diogocardoso.coinllector
+Status: Backend Developer in a project for Shell Eletric Vehicle project in Europe and US.
 
 
 ## 🌐 LinkedIn:
