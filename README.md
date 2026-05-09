@@ -9,7 +9,7 @@ Backend Developer working on Shell's Electric Vehicle project (Europe & US)
 | Project | Website | Repository | Tech |
 | :--- | :--- | :--- | :--- |
 | **Coinllector** | [Google Play](https://play.google.com/store/apps/details?id=com.diogocardoso.coinllector) | [GitHub](https://github.com/DiogoCunhaCardoso/coinllector) | Flutter  |
-| **How to Terminal** | (coming soon) | (coming soon) | MkDocs |
+| **How to Terminal** | [Docs](https://diogocunhacardoso.github.io/how-to-terminal/) | [(GitHub)](https://github.com/DiogoCunhaCardoso/how-to-terminal) | MkDocs |
 | **Portfolio** | [diogocardoso.pro](https://www.diogocardoso.pro) | — | NextJs |
 
 # Tech Stack:
